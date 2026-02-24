@@ -1,0 +1,7 @@
+{
+  "name": "MindStudy Pro - Gen Z Study Hub",
+  "description": "Nền tảng học tập thông minh tích hợp AI, giúp cá nhân hóa lộ trình, quản lý checklist và thư giãn chủ động cho thế hệ Gen Z.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
